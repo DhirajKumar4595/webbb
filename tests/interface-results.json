@@ -1,0 +1,6 @@
+{
+  "checks": 40,
+  "passed": 40,
+  "environment": "Node VM with simulated DOM, no browser layout engine",
+  "networkCalls": 0
+}

@@ -1,0 +1,1006 @@
+{
+  "total": 111,
+  "passed": 111,
+  "failed": 0,
+  "results": [
+    {
+      "number": 1,
+      "question": "About the school",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Jawahar Vidya Mandir is a co-educational, English-medium school in Shyamali Colony, MECON, Ranchi. Its published profile describes education from Junior KG to Senior Secondary, CBSE affiliation and management by Jawahar Vidya Mandir Education Society, Ranchi.\n\nSource: School profile · Published profile checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 2,
+      "question": "What is JVM?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Jawahar Vidya Mandir is a co-educational, English-medium school in Shyamali Colony, MECON, Ranchi. Its published profile describes education from Junior KG to Senior Secondary, CBSE affiliation and management by Jawahar Vidya Mandir Education Society, Ranchi.\n\nSource: School profile · Published profile checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 3,
+      "question": "Where is school?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Jawahar Vidya Mandir is a co-educational, English-medium school in Shyamali Colony, MECON, Ranchi. Its published profile describes education from Junior KG to Senior Secondary, CBSE affiliation and management by Jawahar Vidya Mandir Education Society, Ranchi.\n\nSource: School profile · Published profile checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 4,
+      "question": "Which board is the school affiliated to?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Jawahar Vidya Mandir is a co-educational, English-medium school in Shyamali Colony, MECON, Ranchi. Its published profile describes education from Junior KG to Senior Secondary, CBSE affiliation and management by Jawahar Vidya Mandir Education Society, Ranchi.\n\nSource: School profile · Published profile checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 5,
+      "question": "Tell me about the library",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The school's published facilities pages describe computer laboratories, science laboratories for Physics, Chemistry, Biology and Biotechnology, and a library with literature, reference materials, newspapers and magazines. Current access arrangements should be confirmed with the school.\n\nSource: School laboratory and library pages · Published descriptions checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 6,
+      "question": "Computer lab facilities",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The school's published facilities pages describe computer laboratories, science laboratories for Physics, Chemistry, Biology and Biotechnology, and a library with literature, reference materials, newspapers and magazines. Current access arrangements should be confirmed with the school.\n\nSource: School laboratory and library pages · Published descriptions checked 10 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 7,
+      "question": "How do I apply for admission?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The school publishes an admission-procedure page covering Junior KG and Class XI entry. Current session-specific eligibility, vacancies, deadlines and required documents have not been verified for this exhibition dataset. Check the latest official admission notice before applying; this project does not accept applications.\n\nSource: Official admission-procedure page · General page checked 10 October 2026; current admissions not confirmed.",
+      "error": ""
+    },
+    {
+      "number": 8,
+      "question": "What are Class 9 fees?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "A verified current JVM Shyamali fee table is not included in the supplied records. I cannot quote an amount or reuse fictional school fees. Please consult the school's official Fee Structure page and the applicable session notice.\n\nSource: Official website: Admission → Fee Structure · Amounts unavailable.",
+      "error": ""
+    },
+    {
+      "number": 9,
+      "question": "Phone number and email",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The published profile places JVM Shyamali in Shyamali Colony, MECON, Ranchi. Current phone numbers, email addresses and school timings have not been verified in this dataset. Use Contact Us on the official website for current assistance.\n\nSource: Official website: Contact Us · Contact numbers and timings unavailable.",
+      "error": ""
+    },
+    {
+      "number": 10,
+      "question": "School timings",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The published profile places JVM Shyamali in Shyamali Colony, MECON, Ranchi. Current phone numbers, email addresses and school timings have not been verified in this dataset. Use Contact Us on the official website for current assistance.\n\nSource: Official website: Contact Us · Contact numbers and timings unavailable.",
+      "error": ""
+    },
+    {
+      "number": 11,
+      "question": "Who is the principal?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The supplied reference includes chairman/president and principal portraits. Names, current appointments and full messages have not been verified for this project. The portraits are retained as reference material; no personal biography is inferred.\n\nSource: Supplied reference screenshots; official leadership links · Current identities unverified.",
+      "error": ""
+    },
+    {
+      "number": 12,
+      "question": "When was the school founded?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "A verified founding date and detailed school history are not included in the available project records. The profile below provides the supported introduction without inventing historical details.\n\nSource: School profile · Detailed history unavailable.",
+      "error": ""
+    },
+    {
+      "number": 13,
+      "question": "Show alumni profiles",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No verified alumni profiles, achievements or contact details have been supplied. Use the alumni section for the official website reference; no fictional profiles are presented.\n\nSource: Official website: Alumni · Profiles unavailable.",
+      "error": ""
+    },
+    {
+      "number": 14,
+      "question": "Bus route and fare",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The official website includes a Transport section. Routes, availability, charges and pickup times have not been verified in the local records. Please confirm those details with the school.\n\nSource: Official website: Facilities → Transport · Route and fee details unavailable.",
+      "error": ""
+    },
+    {
+      "number": 15,
+      "question": "Latest notices",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "This exhibition shows the supplied 2026–27 calendar, not a live notice feed. New urgent notices, changes and cancellations are not automatically received. Check the official website for current circulars; the calendar source notes remain available locally.\n\nSource: Official notices and supplied calendar · No live updates.",
+      "error": ""
+    },
+    {
+      "number": 16,
+      "question": "Class 11 subjects",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The published school profile covers Junior KG through Senior Secondary. This exhibition calendar supports LKG, UKG and Classes I–XII equally. A verified class-wise subject list, textbook list and current stream combinations are not included in the local dataset.\n\nSource: School profile and supplied calendar · Detailed curriculum unavailable.",
+      "error": ""
+    },
+    {
+      "number": 17,
+      "question": "When is winter vacation?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 18,
+      "question": "Winter holidays kab hain?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 19,
+      "question": "Winter vacation kab khulega school?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• School reopens after Winter Vacation — 7 Jan 2027 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 20,
+      "question": "When will school reopen after winter break?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• School reopens after Winter Vacation — 7 Jan 2027 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 21,
+      "question": "Summer holidays",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Summer Vacation — 18 May 2026 – 20 Jun 2026 · All classes\n  34 inclusive calendar days; printed holiday count: 28.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 22,
+      "question": "When does summer vacation end?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Summer Vacation — ends 20 Jun 2026 · All classes\n  34 inclusive calendar days; printed holiday count: 28.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 23,
+      "question": "When does autumn break start?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Autumn Break — starts 15 Oct 2026 · All classes\n  13 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 24,
+      "question": "School reopening after Diwali",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• School reopens after Deepawali, Bhai Duj, Chhat — 18 Nov 2026 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 25,
+      "question": "Birsa Jayanti",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Birsa Jayanti — 15 Nov 2026 · All classes\n  Note: Printed additional holiday count: 0. Do not infer a full school closure from this entry. Main table reads 15 November 2026; the partially visible footnote contains an inconsistent older date. Main table retained.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 26,
+      "question": "Republic Day",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Republic Day — National Festival — 26 Jan 2027 · All classes\n  Note: Printed additional holiday count: 0. Do not infer a full school closure from this entry.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 27,
+      "question": "Good Friday",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Good Friday — 3 Apr 2026 · All classes\n\n• Good Friday — 26 Mar 2027 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 28,
+      "question": "Holi dates",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Holi — 22 Mar 2027 – 23 Mar 2027 · All classes\n  2 inclusive calendar days; printed holiday count: 2.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 29,
+      "question": "Milad-Ul-Nabi",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Milad-Ul-Nabi — 26 Aug 2026 · All classes\n  Note: Printed *: date subject to moon visibility.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 30,
+      "question": "Id-Ul-Fitr",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Id-Ul-Fitr — 9 Mar 2027 · All classes\n  Note: Printed #: subject to change.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 31,
+      "question": "Eid holiday",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Which observance do you mean: Id-Ul-Fitr, Id-Ul-Zoha or Milad-Ul-Nabi?",
+      "error": ""
+    },
+    {
+      "number": 32,
+      "question": "winter vacaton",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 33,
+      "question": "wintter holidys",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 34,
+      "question": "scince exhibition class 9",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 35,
+      "question": "Class IX science exhibition",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 36,
+      "question": "When is the Class 9 science exhibition?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 37,
+      "question": "What about Class 10?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 10\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 38,
+      "question": "And next month?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching date for that event was found for Class 10 · November 2026. This does not mean there are no events or that school is open.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 39,
+      "question": "Class 8 exams in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching record was found for Class 8 · October 2026. This does not mean there are no events or that school is open.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 40,
+      "question": "What about Class 9?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching record was found for Class 9 · October 2026. This does not mean there are no events or that school is open.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 41,
+      "question": "Winter vacation",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 42,
+      "question": "When does it end?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — ends 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 43,
+      "question": "When will school reopen?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• School reopens after Winter Vacation — 7 Jan 2027 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 44,
+      "question": "Start over",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Conversation cleared. Ask about any class, holiday or school information.",
+      "error": ""
+    },
+    {
+      "number": 45,
+      "question": "When does it end?",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Which holiday or event do you mean?",
+      "error": ""
+    },
+    {
+      "number": 46,
+      "question": "Class 12 mock exams",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 12\n• Mock exam begins — XII — 3 Dec 2026\n\nSource: supplied 2026–27 calendar · PDF page 7. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 47,
+      "question": "Class 1 RT 1 Maths",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 1\n• RT-1 — Maths — 4 May 2026\n\nSource: supplied 2026–27 calendar · PDF page 2. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 48,
+      "question": "UKG Hindi PT 1",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "UKG\n• PT-1 — Hindi — 2 Jul 2026\n\nSource: supplied 2026–27 calendar · PDF page 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 49,
+      "question": "UKG English story telling",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "UKG\n• English Story Telling — UKG — 24 Jul 2026\n\nSource: supplied 2026–27 calendar · PDF page 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 50,
+      "question": "Class 9 quiz",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• Quiz Competition — IX–X — 12 Aug 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 51,
+      "question": "Class 6 quiz",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 6\n• Quiz Competition — VI–VIII — 11 Aug 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 52,
+      "question": "LKG new session",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "LKG\n• New session begins — LKG — 13 Apr 2026\n\nSource: supplied 2026–27 calendar · PDF page 2. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 53,
+      "question": "Class 3 new session",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 3\n• New session begins — III–V — 6 Apr 2026\n\nSource: supplied 2026–27 calendar · PDF page 3. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 54,
+      "question": "Classes 9 and 10 science exhibition",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9 / Class 10\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 55,
+      "question": "Classes 6 to 10 science exhibition",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 6 / Class 7 / Class 8 / Class 9 / Class 10\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 56,
+      "question": "Class thirteen fees",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Please choose LKG, UKG or a class from 1 to 12.",
+      "error": ""
+    },
+    {
+      "number": 57,
+      "question": "Class 13 activities",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Please choose LKG, UKG or a class from 1 to 12.",
+      "error": ""
+    },
+    {
+      "number": 58,
+      "question": "Class 5 activities in January",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching record was found for Class 5 · January 2027. This does not mean there are no events or that school is open.\n\nSource gap: Class 3/Class 4/Class 5 · January–March 2027.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 59,
+      "question": "Is school open on 14 October?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "I cannot confirm that school is open or closed on 14 Oct 2026. The calendar lists activities or observances, but those do not establish attendance requirements.\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 60,
+      "question": "Is school open on 20 October?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The supplied calendar lists Autumn Break (15 Oct 2026 – 27 Oct 2026). This is recorded as a holiday or vacation, subject to later school notices.\n\n• Autumn Break — 15 Oct 2026 – 27 Oct 2026 · All classes\n  13 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 61,
+      "question": "Is school open on 28 October?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The supplied calendar explicitly lists School reopens after Autumn Break on 28 Oct 2026. Check later notices for changes.\n\n• School reopens after Autumn Break — 28 Oct 2026 · All classes\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 62,
+      "question": "Is school open on 15 August?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "I cannot confirm that school is open or closed on 15 Aug 2026. The calendar lists activities or observances, but those do not establish attendance requirements.\n\n• Independence Day — National Festival — 15 Aug 2026 · All classes\n  Note: Printed additional holiday count: 0. Do not infer a full school closure from this entry.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 63,
+      "question": "Is school open on 11 October?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "I cannot confirm that school is open or closed on 11 Oct 2026. No matching entry is recorded; missing entries do not establish school opening or closure.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 64,
+      "question": "Is school open?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Which date should I check? An activity entry alone cannot confirm that school is open.",
+      "error": ""
+    },
+    {
+      "number": 65,
+      "question": "Today",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching record was found for All classes · 10 Oct 2026. This does not mean there are no events or that school is open.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 66,
+      "question": "Tomorrow",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "No matching record was found for All classes · 11 Oct 2026. This does not mean there are no events or that school is open.\n\nSource: supplied 2026–27 calendar. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 67,
+      "question": "Yesterday",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 9 Oct 2026\n• Music Competition — 9 Oct 2026 · Class 3, Class 4, Class 5\n\n• Quiz Competition — 9 Oct 2026 · Class 11, Class 12\n\nSource: supplied 2026–27 calendar · PDF pages 8, 7. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 68,
+      "question": "This week",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · this week (Monday–Sunday)\n• Spell Bee — English, Class I — 5 Oct 2026 · Class 1\n\n• Spell Bee — Hindi, Class II — 5 Oct 2026 · Class 2\n\n• Spell Bee — English, Class II — 6 Oct 2026 · Class 2\n\n• Spell Bee — Hindi, Class I — 6 Oct 2026 · Class 1\n\nShowing 1–4 of 7 matching records.\n\nSource: supplied 2026–27 calendar · PDF page 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 69,
+      "question": "Next week",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · next week (Monday–Sunday)\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nShowing 1–4 of 5 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 70,
+      "question": "This month",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · October 2026\n• Gandhi Jayanti — National Festival — 2 Oct 2026 · All classes\n  Note: Printed additional holiday count: 0. Do not infer a full school closure from this entry.\n\n• Dance Competition — I–V — 3 Oct 2026 · Class 1, Class 2, Class 3, Class 4, Class 5\n\n• Spell Bee — English, Class I — 5 Oct 2026 · Class 1\n\n• Spell Bee — Hindi, Class II — 5 Oct 2026 · Class 2\n\nShowing 1–4 of 17 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 1, 8, 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 71,
+      "question": "Next month",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · November 2026\n• RT-2 — EVS — 2 Nov 2026 · Class 1, Class 2\n\n• RT-2 — Maths — 2 Nov 2026 · Class 3, Class 4, Class 5\n\n• RT-2 — English — 3 Nov 2026 · Class 3, Class 4, Class 5\n\n• RT-2 — Hindi — 3 Nov 2026 · Class 1, Class 2\n\nShowing 1–4 of 20 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 72,
+      "question": "14 October 2026",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 14 Oct 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 73,
+      "question": "2026-10-14",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 14 Oct 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 74,
+      "question": "14/10/2026",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 14 Oct 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 75,
+      "question": "14 to 20 October 2026",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 14 Oct 2026 – 20 Oct 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 6, Class 7, Class 8, Class 9, Class 10\n\n• Abhigyan — Science Exhibition — 14 Oct 2026 · Class 11, Class 12\n\n• Abhigyan 2026 — 14 Oct 2026 · LKG, UKG, Class 1, Class 2\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026 · Class 3, Class 4, Class 5\n\nShowing 1–4 of 5 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 4, 7, 9, 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 76,
+      "question": "Between 23 December 2026 and 7 January 2027",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · 23 Dec 2026 – 7 Jan 2027\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\n• School reopens after Winter Vacation — 7 Jan 2027 · All classes\n\nSource gap: Class 3/Class 4/Class 5 · January–March 2027.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 77,
+      "question": "31 February 2027",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "That date is invalid. Please use a real date, such as 14 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 78,
+      "question": "2026-13-10",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "That date is invalid. Please use a real date, such as 14 October 2026.",
+      "error": ""
+    },
+    {
+      "number": 79,
+      "question": "20 to 14 October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "The end date is before the start date. Include both years for a range across New Year.",
+      "error": ""
+    },
+    {
+      "number": 80,
+      "question": "Academic year 2027-28 calendar",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Only the supplied academic year 2026–27 is available. I cannot supply another session’s timetable.",
+      "error": ""
+    },
+    {
+      "number": 81,
+      "question": "April 2027",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes · April 2027\nThis date range is outside the supplied academic year (1 Apr 2026–31 Mar 2027). I cannot confirm its schedule.",
+      "error": ""
+    },
+    {
+      "number": 82,
+      "question": "Kal holiday?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "“Kal” can mean yesterday or tomorrow. Which date do you mean?",
+      "error": ""
+    },
+    {
+      "number": 83,
+      "question": "सर्दियों की छुट्टी कब है",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "All classes\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 84,
+      "question": "Open admissions",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Use the link below to open admission.",
+      "error": ""
+    },
+    {
+      "number": 85,
+      "question": "Go to calendar",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Use the link below to open calendar.",
+      "error": ""
+    },
+    {
+      "number": 86,
+      "question": "Open sources",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Use the link below to open sources.",
+      "error": ""
+    },
+    {
+      "number": 87,
+      "question": "Who won the cricket world cup?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "I could not identify a school topic confidently. Ask for a holiday, class, date, admission information or facilities.",
+      "error": ""
+    },
+    {
+      "number": 88,
+      "question": "<img src=x onerror=alert(1)>",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Please ask a school question in plain text. HTML and scripts are not executed.",
+      "error": ""
+    },
+    {
+      "number": 89,
+      "question": "Are you ChatGPT?",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "I use local JavaScript intent recognition, date parsing, fuzzy matching and structured school records. I am not ChatGPT or a live language model. My school answers work without an API key.",
+      "error": ""
+    },
+    {
+      "number": 90,
+      "question": "Class 9 activities",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• English Debate — 1 Jul 2026\n\n• Hindi Debate — 4 Jul 2026\n\n• Periodic Test-1 — 6 Jul 2026\n  Note: First printed PT-1 entry; the scan also lists 13 July. No continuous examination range inferred.\n\n• Periodic Test-1 — 13 Jul 2026\n  Note: Second printed PT-1 entry.\n\nShowing 1–4 of 20 matching records.\n\nSource gap: Class 6/Class 7/Class 8/Class 9/Class 10 · April–June 2026.\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 91,
+      "question": "Show more",
+      "status": "PASS",
+      "followUp": true,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9\n• Music — Vocal — 20 Jul 2026\n\n• Music — Instrumental — 21 Jul 2026\n\n• Quiz Competition — IX–X — 12 Aug 2026\n\n• Teachers’ Day — 5 Sept 2026\n\nShowing 5–8 of 20 matching records.\n\nSource gap: Class 6/Class 7/Class 8/Class 9/Class 10 · April–June 2026.\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 92,
+      "question": "LKG activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "LKG · October 2026\n• Abhigyan 2026 — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 93,
+      "question": "UKG activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "UKG · October 2026\n• Abhigyan 2026 — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 94,
+      "question": "Class 1 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 1 · October 2026\n• Dance Competition — I–V — 3 Oct 2026\n\n• Spell Bee — English, Class I — 5 Oct 2026\n\n• Spell Bee — Hindi, Class I — 6 Oct 2026\n\n• Music Competition — I–II — 8 Oct 2026\n\nShowing 1–4 of 5 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 8, 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 95,
+      "question": "Class 2 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 2 · October 2026\n• Dance Competition — I–V — 3 Oct 2026\n\n• Spell Bee — Hindi, Class II — 5 Oct 2026\n\n• Spell Bee — English, Class II — 6 Oct 2026\n\n• Music Competition — I–II — 8 Oct 2026\n\nShowing 1–4 of 5 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 8, 9. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 96,
+      "question": "Class 3 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 3 · October 2026\n• Dance Competition — I–V — 3 Oct 2026\n\n• Music Competition — 9 Oct 2026\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 97,
+      "question": "Class 4 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 4 · October 2026\n• Dance Competition — I–V — 3 Oct 2026\n\n• Music Competition — 9 Oct 2026\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 98,
+      "question": "Class 5 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 5 · October 2026\n• Dance Competition — I–V — 3 Oct 2026\n\n• Music Competition — 9 Oct 2026\n\n• Abhigyan 2026 — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 8. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 99,
+      "question": "Class 6 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 6 · October 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 100,
+      "question": "Class 7 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 7 · October 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 101,
+      "question": "Class 8 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 8 · October 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 102,
+      "question": "Class 9 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 9 · October 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 103,
+      "question": "Class 10 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 10 · October 2026\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 4. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 104,
+      "question": "Class 11 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 11 · October 2026\n• Quiz Competition — 9 Oct 2026\n\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\n• English Debate — 30 Oct 2026\n\n• Hindi Debate — 31 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 7. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 105,
+      "question": "Class 12 activities in October",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-10-10T17:21:00Z",
+      "answer": "Class 12 · October 2026\n• Quiz Competition — 9 Oct 2026\n\n• Abhigyan — Science Exhibition — 14 Oct 2026\n\n• English Debate — 30 Oct 2026\n\n• Hindi Debate — 31 Oct 2026\n\nSource: supplied 2026–27 calendar · PDF page 7. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 106,
+      "question": "Next month",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-12-31T17:00:00Z",
+      "answer": "All classes · January 2027\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\n• School reopens after Winter Vacation — 7 Jan 2027 · All classes\n\n• Makar Sankranti & Guru Gobind Jayanti — 15 Jan 2027 · All classes\n  Note: Printed #: subject to change.\n\n• 2nd Mock Examination — X — 16 Jan 2027 · Class 10\n\nShowing 1–4 of 11 matching records.\n\nSource gap: Class 3/Class 4/Class 5 · January–March 2027.\n\nSource: supplied 2026–27 calendar · PDF pages 1, 5. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 107,
+      "question": "Tomorrow",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-12-31T17:00:00Z",
+      "answer": "All classes · 1 Jan 2027\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource gap: Class 3/Class 4/Class 5 · January–March 2027.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 108,
+      "question": "Today",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2026-12-31T19:00:00Z",
+      "answer": "All classes · 1 Jan 2027\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource gap: Class 3/Class 4/Class 5 · January–March 2027.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 109,
+      "question": "Yesterday",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2027-01-01T10:00:00Z",
+      "answer": "All classes · 31 Dec 2026\n• Winter Vacation — 23 Dec 2026 – 6 Jan 2027 · All classes\n  15 inclusive calendar days; printed holiday count: 11.\n\nSource: supplied 2026–27 calendar · PDF page 1. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 110,
+      "question": "Last month",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2027-01-01T10:00:00Z",
+      "answer": "All classes · December 2026\n• PT-2 — English — 1 Dec 2026 · Class 3, Class 4, Class 5\n\n• PT-2 — Hindi — 1 Dec 2026 · LKG, UKG, Class 1, Class 2\n\n• Unit Test-2 — XI — 1 Dec 2026 · Class 11\n\n• PT-2 — Hindi — 2 Dec 2026 · Class 3, Class 4, Class 5\n\nShowing 1–4 of 29 matching records.\n\nSource: supplied 2026–27 calendar · PDF pages 8, 9, 7. Later notices may change dates.",
+      "error": ""
+    },
+    {
+      "number": 111,
+      "question": "Tomorrow",
+      "status": "PASS",
+      "followUp": false,
+      "clock": "2027-03-31T10:00:00Z",
+      "answer": "All classes · 1 Apr 2027\nThis date range is outside the supplied academic year (1 Apr 2026–31 Mar 2027). I cannot confirm its schedule.",
+      "error": ""
+    }
+  ]
+}

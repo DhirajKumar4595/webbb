@@ -1,0 +1,3087 @@
+{
+  "academic_year": "2026–27",
+  "source": "New Doc 10-10-2026 18.46.pdf",
+  "source_pages": 9,
+  "events": [
+    {
+      "id": "HOL-01",
+      "start": "2026-04-03",
+      "end": "2026-04-03",
+      "title": "Good Friday",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-02",
+      "start": "2026-04-14",
+      "end": "2026-04-14",
+      "title": "Ambedkar Jayanti",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-03",
+      "start": "2026-05-01",
+      "end": "2026-05-01",
+      "title": "Buddh Poornima",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-04",
+      "start": "2026-05-18",
+      "end": "2026-06-20",
+      "title": "Summer Vacation",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Vacation",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 28,
+      "calendar_days": 34
+    },
+    {
+      "id": "HOL-05",
+      "start": "2026-05-27",
+      "end": "2026-05-27",
+      "title": "Id-Ul-Zoha",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": " Printed additional holiday count: 0. Do not infer a full school closure from this entry.",
+      "printed_days": 0
+    },
+    {
+      "id": "HOL-06",
+      "start": "2026-06-22",
+      "end": "2026-06-22",
+      "title": "School reopens after Summer Vacation",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Reopening",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "HOL-07",
+      "start": "2026-06-26",
+      "end": "2026-06-26",
+      "title": "Muharram",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-08",
+      "start": "2026-07-16",
+      "end": "2026-07-16",
+      "title": "Rath Yatra",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-09",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "title": "Independence Day — National Festival",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "National Festival",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": " Printed additional holiday count: 0. Do not infer a full school closure from this entry.",
+      "printed_days": 0
+    },
+    {
+      "id": "HOL-10",
+      "start": "2026-08-26",
+      "end": "2026-08-26",
+      "title": "Milad-Ul-Nabi",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "Printed *: date subject to moon visibility.",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-11",
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "title": "Rakshabandhan",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-12",
+      "start": "2026-09-04",
+      "end": "2026-09-04",
+      "title": "Janmashtami",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-13",
+      "start": "2026-09-23",
+      "end": "2026-09-23",
+      "title": "Karma",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "Printed #: subject to change.",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-14",
+      "start": "2026-10-02",
+      "end": "2026-10-02",
+      "title": "Gandhi Jayanti — National Festival",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "National Festival",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": " Printed additional holiday count: 0. Do not infer a full school closure from this entry.",
+      "printed_days": 0
+    },
+    {
+      "id": "HOL-15",
+      "start": "2026-10-15",
+      "end": "2026-10-27",
+      "title": "Autumn Break",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Vacation",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 11,
+      "calendar_days": 13
+    },
+    {
+      "id": "HOL-16",
+      "start": "2026-10-28",
+      "end": "2026-10-28",
+      "title": "School reopens after Autumn Break",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Reopening",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "HOL-17",
+      "start": "2026-11-07",
+      "end": "2026-11-17",
+      "title": "Deepawali, Bhai Duj, Chhat",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Vacation",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 8,
+      "calendar_days": 11
+    },
+    {
+      "id": "HOL-18",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "title": "Birsa Jayanti",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": " Printed additional holiday count: 0. Do not infer a full school closure from this entry. Main table reads 15 November 2026; the partially visible footnote contains an inconsistent older date. Main table retained.",
+      "printed_days": 0
+    },
+    {
+      "id": "HOL-19",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "title": "School reopens after Deepawali, Bhai Duj, Chhat",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Reopening",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "HOL-20",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "title": "Guru Nanak Jayanti",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-21",
+      "start": "2026-12-23",
+      "end": "2027-01-06",
+      "title": "Winter Vacation",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Vacation",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 11,
+      "calendar_days": 15
+    },
+    {
+      "id": "HOL-22",
+      "start": "2027-01-07",
+      "end": "2027-01-07",
+      "title": "School reopens after Winter Vacation",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Reopening",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "HOL-23",
+      "start": "2027-01-15",
+      "end": "2027-01-15",
+      "title": "Makar Sankranti & Guru Gobind Jayanti",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "Printed #: subject to change.",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-24",
+      "start": "2027-01-26",
+      "end": "2027-01-26",
+      "title": "Republic Day — National Festival",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "National Festival",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": " Printed additional holiday count: 0. Do not infer a full school closure from this entry.",
+      "printed_days": 0
+    },
+    {
+      "id": "HOL-25",
+      "start": "2027-02-11",
+      "end": "2027-02-11",
+      "title": "Basant Panchami",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-26",
+      "start": "2027-03-05",
+      "end": "2027-03-05",
+      "title": "Jummat-Ul-Vida",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-27",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "title": "Maha Shivratri",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-28",
+      "start": "2027-03-09",
+      "end": "2027-03-09",
+      "title": "Id-Ul-Fitr",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "Printed #: subject to change.",
+      "printed_days": 1
+    },
+    {
+      "id": "HOL-29",
+      "start": "2027-03-22",
+      "end": "2027-03-23",
+      "title": "Holi",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Vacation",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 2,
+      "calendar_days": 2
+    },
+    {
+      "id": "HOL-30",
+      "start": "2027-03-26",
+      "end": "2027-03-26",
+      "title": "Good Friday",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Holiday",
+      "source_page": 1,
+      "status": "Transcribed from scan",
+      "note": "",
+      "printed_days": 1
+    },
+    {
+      "id": "ACT-001",
+      "start": "2026-04-06",
+      "end": "2026-04-06",
+      "title": "New session begins — UKG–II",
+      "classes": [
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Academic",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-002",
+      "start": "2026-04-13",
+      "end": "2026-04-13",
+      "title": "New session begins — LKG",
+      "classes": [
+        "LKG"
+      ],
+      "category": "Academic",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-003",
+      "start": "2026-04-15",
+      "end": "2026-04-15",
+      "title": "English Handwriting Competition",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-004",
+      "start": "2026-04-16",
+      "end": "2026-04-16",
+      "title": "English Handwriting Competition",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-005",
+      "start": "2026-04-17",
+      "end": "2026-04-17",
+      "title": "Hindi Handwriting Competition",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-006",
+      "start": "2026-04-18",
+      "end": "2026-04-18",
+      "title": "Hindi Handwriting Competition",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-007",
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "title": "RT-1 — Maths",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-008",
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "title": "RT-1 — English",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-009",
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "title": "RT-1 — Hindi",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-010",
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "title": "RT-1 — EVS",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-011",
+      "start": "2026-06-25",
+      "end": "2026-06-25",
+      "title": "English Elocution",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-012",
+      "start": "2026-06-25",
+      "end": "2026-06-25",
+      "title": "Hindi Elocution",
+      "classes": [
+        "LKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-013",
+      "start": "2026-06-27",
+      "end": "2026-06-27",
+      "title": "English Elocution",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-014",
+      "start": "2026-06-27",
+      "end": "2026-06-27",
+      "title": "Hindi Elocution",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-015",
+      "start": "2026-06-29",
+      "end": "2026-06-29",
+      "title": "Hindi Elocution",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-016",
+      "start": "2026-06-29",
+      "end": "2026-06-29",
+      "title": "English Elocution",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-017",
+      "start": "2026-06-30",
+      "end": "2026-06-30",
+      "title": "Hindi Elocution",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-018",
+      "start": "2026-06-30",
+      "end": "2026-06-30",
+      "title": "English Elocution",
+      "classes": [
+        "LKG"
+      ],
+      "category": "Competition",
+      "source_page": 2,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-019",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "title": "Parents’ Teachers’ Meeting",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Meeting",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-020",
+      "start": "2027-01-27",
+      "end": "2027-01-27",
+      "title": "Prize Distribution — LKG",
+      "classes": [
+        "LKG"
+      ],
+      "category": "Ceremony",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-021",
+      "start": "2027-01-28",
+      "end": "2027-01-28",
+      "title": "Prize Distribution — UKG",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Ceremony",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-022",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "title": "Prize Distribution — Class I",
+      "classes": [
+        "1"
+      ],
+      "category": "Ceremony",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-023",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "title": "Prize Distribution — Class II",
+      "classes": [
+        "2"
+      ],
+      "category": "Ceremony",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-024",
+      "start": "2026-04-06",
+      "end": "2026-04-06",
+      "title": "New session begins — III–V",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Academic",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-025",
+      "start": "2026-04-21",
+      "end": "2026-04-21",
+      "title": "Hindi Handwriting Competition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-026",
+      "start": "2026-04-23",
+      "end": "2026-04-23",
+      "title": "English Handwriting Competition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-027",
+      "start": "2026-05-02",
+      "end": "2026-05-02",
+      "title": "RT-1 — Maths",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-028",
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "title": "RT-1 — English",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-029",
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "title": "RT-1 — Hindi",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-030",
+      "start": "2026-05-06",
+      "end": "2026-05-06",
+      "title": "RT-1 — EVS",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-031",
+      "start": "2026-05-07",
+      "end": "2026-05-07",
+      "title": "RT-1 — Sanskrit",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-032",
+      "start": "2026-06-24",
+      "end": "2026-06-24",
+      "title": "English Essay Writing Competition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-033",
+      "start": "2026-06-29",
+      "end": "2026-06-29",
+      "title": "Hindi Essay Writing Competition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 3,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-034",
+      "start": "2026-07-01",
+      "end": "2026-07-01",
+      "title": "English Debate",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-035",
+      "start": "2026-07-04",
+      "end": "2026-07-04",
+      "title": "Hindi Debate",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-036",
+      "start": "2026-07-06",
+      "end": "2026-07-06",
+      "title": "Periodic Test-1",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": "First printed PT-1 entry; the scan also lists 13 July. No continuous examination range inferred."
+    },
+    {
+      "id": "ACT-037",
+      "start": "2026-07-13",
+      "end": "2026-07-13",
+      "title": "Periodic Test-1",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": "Second printed PT-1 entry."
+    },
+    {
+      "id": "ACT-038",
+      "start": "2026-07-20",
+      "end": "2026-07-20",
+      "title": "Music — Vocal",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-039",
+      "start": "2026-07-21",
+      "end": "2026-07-21",
+      "title": "Music — Instrumental",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-040",
+      "start": "2026-08-11",
+      "end": "2026-08-11",
+      "title": "Quiz Competition — VI–VIII",
+      "classes": [
+        "6",
+        "7",
+        "8"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-041",
+      "start": "2026-08-12",
+      "end": "2026-08-12",
+      "title": "Quiz Competition — IX–X",
+      "classes": [
+        "9",
+        "10"
+      ],
+      "category": "Competition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-042",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "title": "Teachers’ Day",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Cultural",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-043",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "title": "Mid-term begins",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-044",
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "title": "Mid-term — printed calendar entry",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": "The scan labels this date MID TERM; it does not explicitly say ends."
+    },
+    {
+      "id": "ACT-045",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "title": "Abhigyan — Science Exhibition",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Exhibition",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-046",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "title": "Periodic Test-2",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-047",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "title": "PT ends",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-048",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "title": "1st Mock Examination — X",
+      "classes": [
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-049",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "title": "1st Mock Examination — printed entry",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": "The second entry does not repeat class X; shown for the printed VI–X group pending clarification."
+    },
+    {
+      "id": "ACT-050",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "title": "Harbingers",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Cultural",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-051",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "title": "Annual Sports",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Sports",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-052",
+      "start": "2026-12-17",
+      "end": "2026-12-17",
+      "title": "Annual Sports",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Sports",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-053",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "title": "Annual Sports",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Sports",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-054",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "title": "Parvaaz 2026",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Cultural",
+      "source_page": 4,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-055",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "title": "2nd Mock Examination — X",
+      "classes": [
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 5,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-056",
+      "start": "2027-01-18",
+      "end": "2027-01-18",
+      "title": "2nd Mock Examination — X",
+      "classes": [
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 5,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-057",
+      "start": "2027-02-08",
+      "end": "2027-02-08",
+      "title": "Annual Exam",
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "category": "Examination",
+      "source_page": 5,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-058",
+      "start": "2026-05-08",
+      "end": "2026-05-08",
+      "title": "Academic Prizes — XI Toppers",
+      "classes": [
+        "11"
+      ],
+      "category": "Ceremony",
+      "source_page": 5,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-059",
+      "start": "2027-02-15",
+      "end": "2027-02-15",
+      "title": "Annual exam begins — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 6,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-060",
+      "start": "2026-07-20",
+      "end": "2026-07-20",
+      "title": "Unit Test-1 — XII",
+      "classes": [
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-061",
+      "start": "2026-07-27",
+      "end": "2026-07-27",
+      "title": "Unit Test-1 — XII",
+      "classes": [
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-062",
+      "start": "2026-07-30",
+      "end": "2026-07-30",
+      "title": "English Essay Writing",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-063",
+      "start": "2026-07-31",
+      "end": "2026-07-31",
+      "title": "Hindi Essay Writing",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-064",
+      "start": "2026-08-03",
+      "end": "2026-08-03",
+      "title": "Unit Test-1 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-065",
+      "start": "2026-08-10",
+      "end": "2026-08-10",
+      "title": "Unit Test-1 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-066",
+      "start": "2026-08-19",
+      "end": "2026-08-19",
+      "title": "English Elocution",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-067",
+      "start": "2026-08-20",
+      "end": "2026-08-20",
+      "title": "Hindi Elocution",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-068",
+      "start": "2026-08-21",
+      "end": "2026-08-21",
+      "title": "Music — Vocal",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-069",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "title": "Music — Instrumental",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-070",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "title": "Mid-term Exam — XI & XII",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-071",
+      "start": "2026-09-14",
+      "end": "2026-09-14",
+      "title": "Mid-term Exam — XI & XII",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-072",
+      "start": "2026-09-21",
+      "end": "2026-09-21",
+      "title": "Mid-term Exam — XI & XII",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-073",
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "title": "Mid-term Exam — XI & XII",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-074",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "title": "Quiz Competition",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-075",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "title": "Abhigyan — Science Exhibition",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Exhibition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-076",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "title": "English Debate",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-077",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "title": "Hindi Debate",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-078",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "title": "Drama Competition",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Competition",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-079",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "title": "Unit Test-2 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-080",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "title": "Unit Test-2 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-081",
+      "start": "2026-11-30",
+      "end": "2026-11-30",
+      "title": "Unit Test-2 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-082",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "title": "Unit Test-2 — XI",
+      "classes": [
+        "11"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-083",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "title": "Mock exam begins — XII",
+      "classes": [
+        "12"
+      ],
+      "category": "Examination",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-084",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "title": "Harbingers 2026",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Cultural",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-085",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "title": "Parvaaz 2026",
+      "classes": [
+        "11",
+        "12"
+      ],
+      "category": "Cultural",
+      "source_page": 7,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-086",
+      "start": "2026-07-02",
+      "end": "2026-07-02",
+      "title": "PT-1 — English",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-087",
+      "start": "2026-07-03",
+      "end": "2026-07-03",
+      "title": "PT-1 — Hindi",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-088",
+      "start": "2026-07-04",
+      "end": "2026-07-04",
+      "title": "PT-1 — Maths",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-089",
+      "start": "2026-07-06",
+      "end": "2026-07-06",
+      "title": "PT-1 — EVS",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-090",
+      "start": "2026-07-07",
+      "end": "2026-07-07",
+      "title": "PT-1 — Computer",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-091",
+      "start": "2026-07-08",
+      "end": "2026-07-08",
+      "title": "PT-1 — Sanskrit",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-092",
+      "start": "2026-07-09",
+      "end": "2026-07-09",
+      "title": "PT-1 — G.K.",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-093",
+      "start": "2026-07-13",
+      "end": "2026-07-13",
+      "title": "Hindi Elocution — III",
+      "classes": [
+        "3"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-094",
+      "start": "2026-07-14",
+      "end": "2026-07-14",
+      "title": "English Elocution — V",
+      "classes": [
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-095",
+      "start": "2026-07-17",
+      "end": "2026-07-17",
+      "title": "Spell Bee — Hindi",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-096",
+      "start": "2026-07-18",
+      "end": "2026-07-18",
+      "title": "Spell Bee — English",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-097",
+      "start": "2026-07-20",
+      "end": "2026-07-20",
+      "title": "English Elocution — III",
+      "classes": [
+        "3"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-098",
+      "start": "2026-07-21",
+      "end": "2026-07-21",
+      "title": "Hindi Elocution — IV",
+      "classes": [
+        "4"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-099",
+      "start": "2026-07-22",
+      "end": "2026-07-22",
+      "title": "English Elocution — IV",
+      "classes": [
+        "4"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-100",
+      "start": "2026-07-23",
+      "end": "2026-07-23",
+      "title": "Hindi Elocution — V",
+      "classes": [
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-101",
+      "start": "2026-07-25",
+      "end": "2026-07-25",
+      "title": "Parents’ Teachers’ Meeting",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Meeting",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-102",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "title": "DO RE MI",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Cultural",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-103",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "title": "Mid-term begins",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-104",
+      "start": "2026-10-03",
+      "end": "2026-10-03",
+      "title": "Dance Competition — I–V",
+      "classes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-105",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "title": "Music Competition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Competition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-106",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "title": "Abhigyan 2026 — Science Exhibition",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Exhibition",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-107",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "title": "RT-2 — Maths",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-108",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "title": "RT-2 — English",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-109",
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "title": "RT-2 — Hindi",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-110",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "title": "RT-2 — EVS",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-111",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "title": "RT-2 — Sanskrit",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-112",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "title": "PT-2 — English",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-113",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "title": "PT-2 — Hindi",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-114",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "title": "PT-2 — Maths",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-115",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "title": "PT-2 — EVS",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-116",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "title": "PT-2 — Computer",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-117",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "title": "PT-2 — Sanskrit",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-118",
+      "start": "2026-12-08",
+      "end": "2026-12-08",
+      "title": "PT-2 — G.K.",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Examination",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-119",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "title": "Parvaaz 2026",
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "category": "Cultural",
+      "source_page": 8,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-120",
+      "start": "2026-07-02",
+      "end": "2026-07-02",
+      "title": "PT-1 — Hindi",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-121",
+      "start": "2026-07-04",
+      "end": "2026-07-04",
+      "title": "PT-1 — EVS",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-122",
+      "start": "2026-07-06",
+      "end": "2026-07-06",
+      "title": "PT-1 — English",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-123",
+      "start": "2026-07-08",
+      "end": "2026-07-08",
+      "title": "PT-1 — Maths",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-124",
+      "start": "2026-07-22",
+      "end": "2026-07-22",
+      "title": "English Story Telling — II",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-125",
+      "start": "2026-07-23",
+      "end": "2026-07-23",
+      "title": "English Story Telling — I",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-126",
+      "start": "2026-07-24",
+      "end": "2026-07-24",
+      "title": "English Story Telling — UKG",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-127",
+      "start": "2026-07-29",
+      "end": "2026-07-29",
+      "title": "Hindi Story Telling — II",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-128",
+      "start": "2026-07-30",
+      "end": "2026-07-30",
+      "title": "Hindi Story Telling — I",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-129",
+      "start": "2026-07-31",
+      "end": "2026-07-31",
+      "title": "Hindi Story Telling — UKG",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-130",
+      "start": "2026-08-14",
+      "end": "2026-08-14",
+      "title": "Grandparents Day",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Cultural",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-131",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "title": "DO RE MI",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Cultural",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-132",
+      "start": "2026-08-31",
+      "end": "2026-08-31",
+      "title": "Mental Maths Competition",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-133",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "title": "Mid-term begins",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-134",
+      "start": "2026-10-05",
+      "end": "2026-10-05",
+      "title": "Spell Bee — English, Class I",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-135",
+      "start": "2026-10-05",
+      "end": "2026-10-05",
+      "title": "Spell Bee — Hindi, Class II",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-136",
+      "start": "2026-10-06",
+      "end": "2026-10-06",
+      "title": "Spell Bee — Hindi, Class I",
+      "classes": [
+        "1"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-137",
+      "start": "2026-10-06",
+      "end": "2026-10-06",
+      "title": "Spell Bee — English, Class II",
+      "classes": [
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-138",
+      "start": "2026-10-08",
+      "end": "2026-10-08",
+      "title": "Music Competition — I–II",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-139",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "title": "Abhigyan 2026",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Exhibition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-140",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "title": "RT-2 — EVS",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-141",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "title": "RT-2 — Hindi",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-142",
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "title": "RT-2 — English",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-143",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "title": "RT-2 — Maths",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-144",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "title": "G.K. Quiz",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Competition",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-145",
+      "start": "2026-12-01",
+      "end": "2026-12-01",
+      "title": "PT-2 — Hindi",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-146",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "title": "PT-2 — Maths",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-147",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "title": "PT-2 — EVS",
+      "classes": [
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-148",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "title": "PT-2 — English",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Examination",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-149",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "title": "Sports Day — II",
+      "classes": [
+        "2"
+      ],
+      "category": "Sports",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-150",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "title": "Sports Day — I",
+      "classes": [
+        "1"
+      ],
+      "category": "Sports",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-151",
+      "start": "2026-12-14",
+      "end": "2026-12-14",
+      "title": "Sports Day — UKG",
+      "classes": [
+        "UKG"
+      ],
+      "category": "Sports",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-152",
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "title": "Sports Day — LKG",
+      "classes": [
+        "LKG"
+      ],
+      "category": "Sports",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    },
+    {
+      "id": "ACT-153",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "title": "Parvaaz 2026",
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "category": "Cultural",
+      "source_page": 9,
+      "status": "Transcribed from scan",
+      "note": ""
+    }
+  ],
+  "coverage": [
+    {
+      "classes": [
+        "LKG",
+        "UKG",
+        "1",
+        "2"
+      ],
+      "available": "April 2026–March 2027",
+      "missing": []
+    },
+    {
+      "classes": [
+        "3",
+        "4",
+        "5"
+      ],
+      "available": "April–December 2026",
+      "missing": [
+        "January–March 2027"
+      ]
+    },
+    {
+      "classes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "available": "July 2026–March 2027",
+      "missing": [
+        "April–June 2026"
+      ]
+    },
+    {
+      "classes": [
+        "11",
+        "12"
+      ],
+      "available": "April 2026–March 2027",
+      "missing": []
+    }
+  ],
+  "notes": [
+    "Transcribed from the supplied school calendar; not independently confirmed by the school.",
+    "Holiday and reopening ranges follow the master holiday list (PDF page 1).",
+    "Printed holiday counts are separate from inclusive calendar-day durations. National festivals with printed count 0 are not labelled school closures.",
+    "Repeated examination entries are retained as separate printed dates. Continuous exam ranges are not inferred.",
+    "PDF page 1 bottom footnotes are partly obscured. Do not infer hidden exceptions or attendance requirements.",
+    "The missing spread contains III–V January–March and VI–X April–June.",
+    "The pasted extraction contained incorrect dates/classes and is superseded by the visible scan where readable."
+  ]
+}

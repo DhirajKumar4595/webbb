@@ -1,0 +1,214 @@
+{
+  "identity": "Jawahar Vidya Mandir, Shyamali",
+  "project": "Independent school exhibition website; not the school's official website",
+  "checked": "2026-10-10",
+  "facts": [
+    {
+      "id": "about",
+      "section": "about",
+      "title": "About JVM Shyamali",
+      "aliases": [
+        "about the school",
+        "about school",
+        "introduction",
+        "school profile",
+        "what is jvm",
+        "where is school",
+        "location",
+        "board",
+        "affiliation",
+        "co educational",
+        "medium of instruction",
+        "school management",
+        "school name",
+        "english medium",
+        "cbse",
+        "school located",
+        "tell me about jvm"
+      ],
+      "text": "Jawahar Vidya Mandir is a co-educational, English-medium school in Shyamali Colony, MECON, Ranchi. Its published profile describes education from Junior KG to Senior Secondary, CBSE affiliation and management by Jawahar Vidya Mandir Education Society, Ranchi.",
+      "source": "https://www.jvmshyamali.com/History-SchoolProfile-Culture",
+      "sourceLabel": "School profile",
+      "status": "Published profile checked 10 October 2026"
+    },
+    {
+      "id": "facilities",
+      "section": "facilities",
+      "title": "Learning facilities",
+      "aliases": [
+        "facilities",
+        "laboratories",
+        "labs",
+        "computer lab",
+        "science lab",
+        "library",
+        "books",
+        "reading"
+      ],
+      "text": "The school's published facilities pages describe computer laboratories, science laboratories for Physics, Chemistry, Biology and Biotechnology, and a library with literature, reference materials, newspapers and magazines. Current access arrangements should be confirmed with the school.",
+      "source": "https://www.jvmshyamali.com/Laboratory",
+      "additionalSource": "https://www.jvmshyamali.com/Library",
+      "sourceLabel": "School laboratory and library pages",
+      "status": "Published descriptions checked 10 October 2026"
+    },
+    {
+      "id": "admission",
+      "section": "admission",
+      "title": "Admission information",
+      "aliases": [
+        "admission",
+        "admissions",
+        "apply",
+        "application",
+        "enrolment",
+        "eligibility",
+        "entrance",
+        "admission documents",
+        "cut off"
+      ],
+      "text": "The school publishes an admission-procedure page covering Junior KG and Class XI entry. Current session-specific eligibility, vacancies, deadlines and required documents have not been verified for this exhibition dataset. Check the latest official admission notice before applying; this project does not accept applications.",
+      "source": "https://www.jvmshyamali.com/Admission-Procedure",
+      "sourceLabel": "Official admission-procedure page",
+      "status": "General page checked 10 October 2026; current admissions not confirmed"
+    },
+    {
+      "id": "fees",
+      "section": "fees",
+      "title": "Fees",
+      "aliases": [
+        "fees",
+        "fee",
+        "payment",
+        "tuition",
+        "charges",
+        "cost",
+        "pay fees"
+      ],
+      "text": "A verified current JVM Shyamali fee table is not included in the supplied records. I cannot quote an amount or reuse fictional school fees. Please consult the school's official Fee Structure page and the applicable session notice.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Official website: Admission → Fee Structure",
+      "status": "Amounts unavailable"
+    },
+    {
+      "id": "academics",
+      "section": "academics",
+      "title": "Academics & class coverage",
+      "aliases": [
+        "classes offered",
+        "classes available",
+        "curriculum",
+        "syllabus",
+        "subjects",
+        "streams",
+        "academic programmes"
+      ],
+      "text": "The published school profile covers Junior KG through Senior Secondary. This exhibition calendar supports LKG, UKG and Classes I–XII equally. A verified class-wise subject list, textbook list and current stream combinations are not included in the local dataset.",
+      "source": "https://www.jvmshyamali.com/History-SchoolProfile-Culture",
+      "sourceLabel": "School profile and supplied calendar",
+      "status": "Detailed curriculum unavailable"
+    },
+    {
+      "id": "contact",
+      "section": "contact",
+      "title": "Contact & assistance",
+      "aliases": [
+        "contact",
+        "phone",
+        "email",
+        "address",
+        "telephone",
+        "school timing",
+        "school timings",
+        "school hours",
+        "office hours",
+        "opening time",
+        "school start time"
+      ],
+      "text": "The published profile places JVM Shyamali in Shyamali Colony, MECON, Ranchi. Current phone numbers, email addresses and school timings have not been verified in this dataset. Use Contact Us on the official website for current assistance.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Official website: Contact Us",
+      "status": "Contact numbers and timings unavailable"
+    },
+    {
+      "id": "leadership",
+      "section": "leaders",
+      "title": "School leadership",
+      "aliases": [
+        "principal",
+        "chairman",
+        "president",
+        "leadership",
+        "headmaster",
+        "staff",
+        "teachers names"
+      ],
+      "text": "The supplied reference includes chairman/president and principal portraits. Names, current appointments and full messages have not been verified for this project. The portraits are retained as reference material; no personal biography is inferred.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Supplied reference screenshots; official leadership links",
+      "status": "Current identities unverified"
+    },
+    {
+      "id": "history",
+      "section": "about",
+      "title": "History & founding date",
+      "aliases": [
+        "history",
+        "founded",
+        "founding",
+        "established",
+        "founder"
+      ],
+      "text": "A verified founding date and detailed school history are not included in the available project records. The profile below provides the supported introduction without inventing historical details.",
+      "source": "https://www.jvmshyamali.com/History-SchoolProfile-Culture",
+      "sourceLabel": "School profile",
+      "status": "Detailed history unavailable"
+    },
+    {
+      "id": "notices",
+      "section": "alerts",
+      "title": "Notices & updates",
+      "aliases": [
+        "notice",
+        "notices",
+        "alert",
+        "alerts",
+        "announcement",
+        "announcements",
+        "latest news"
+      ],
+      "text": "This exhibition shows the supplied 2026–27 calendar, not a live notice feed. New urgent notices, changes and cancellations are not automatically received. Check the official website for current circulars; the calendar source notes remain available locally.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Official notices and supplied calendar",
+      "status": "No live updates"
+    },
+    {
+      "id": "alumni",
+      "section": "alumni",
+      "title": "Alumni",
+      "aliases": [
+        "alumni",
+        "old students",
+        "former students"
+      ],
+      "text": "No verified alumni profiles, achievements or contact details have been supplied. Use the alumni section for the official website reference; no fictional profiles are presented.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Official website: Alumni",
+      "status": "Profiles unavailable"
+    },
+    {
+      "id": "transport",
+      "section": "facilities",
+      "title": "Transport",
+      "aliases": [
+        "transport",
+        "bus",
+        "bus route",
+        "bus fare"
+      ],
+      "text": "The official website includes a Transport section. Routes, availability, charges and pickup times have not been verified in the local records. Please confirm those details with the school.",
+      "source": "https://www.jvmshyamali.com/home",
+      "sourceLabel": "Official website: Facilities → Transport",
+      "status": "Route and fee details unavailable"
+    }
+  ]
+}
